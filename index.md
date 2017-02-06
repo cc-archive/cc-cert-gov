@@ -1,10 +1,10 @@
-# Creative Commons Education Certification
+# Creative Commons Government Certification
 
-![Learning is Hanging Out](https://github.com/creativecommons/cc-cert-edu/blob/master/images/learning.jpg "Learning is Hanging Out")
+![Impact of Government Shutdown on the Food and Beverage Industry](https://github.com/creativecommons/cc-cert-gov/blob/master/images/gov-building.jpg "Impact of Government Shutdown on the Food and Beverage Industry")
 
-*[Learning is Hanging Out](https://www.flickr.com/photos/cogdog/15905754123) by [Alan Levine](https://www.flickr.com/photos/cogdog/) licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/)*
+*[Impact of Government Shutdown on the Food and Beverage Industry](https://flickr.com/photos/99329675@N02/11064956693 "Impact of Government Shutdown on the Food and Beverage Industry") by [jpalinsad360](https://flickr.com/people/99329675@N02) is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/2.0/)*
 
-* [Overview of the Creative Commons Education Certification](overview/index.md) 
-* [Details of the Creative Commons Education Certification](details/index.md) 
-* [Education Certification Contents](contents/index.md)  
+* [Overview of the Creative Commons Government Certification](overview/index.md) 
+* [Details of the Creative Commons Government Certification](details/index.md) 
+* [Library Government Contents](contents/index.md)  
 
