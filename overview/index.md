@@ -17,14 +17,7 @@ Growth hacking non-disclosure agreement research & development advisor launch pa
 
 ## Who is this for?
 
-Monetization ecosystem success iPad hypotheses series A financing user experience strategy conversion rockstar leverage vesting period business-to-business disruptive. Analytics graphical user interface social proof. 
-
-Gamification non-disclosure agreement iteration accelerator angel investor bootstrapping network effects technology product management disruptive stock crowdsource. S
-
-uccess facebook investor non-disclosure agreement metrics iteration pitch leverage twitter influencer android bootstrapping entrepreneur business model canvas. 
-
-Crowdsource branding angel investor startup venture validation business model canvas buyer paradigm shift analytics.
-
+The Creative Commons Government Certificate is designed to help government agencies and departments skill up internal leaders, policy makers, decision makers, and support staff on the value, use, and implementation of Creative Commons (CC) licenses for their programs. Certificates are targeted, pragmatic, and applied. The aim is to ensure all staff have the knowledge and skills they need to successfully perform Creative Commons related responsibilities.
 
 ## What you skills and knowledge will you gain?
 
