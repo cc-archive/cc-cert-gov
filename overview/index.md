@@ -1,4 +1,4 @@
-# Creative Commons Education Government Overview
+# Creative Commons Government Certificate Overview
 
 The Creative Commons Government Certificate is designed to help government agencies and departments skill up internal leaders, policy makers, decision makers, and support staff on the value, use, and implementation of Creative Commons (CC) licenses for their programs.
 
