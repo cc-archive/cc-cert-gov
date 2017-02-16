@@ -1,5 +1,9 @@
 # Creative Commons Government Certificate Overview
 
+![United Nations in Geneva](https://github.com/creativecommons/cc-cert-gov/blob/master/images/UnitedNationsInside.jpg)
+
+*[United Nations in Geneva](https://flic.kr/p/7hQFm7) by [Ian McKellar](https://www.flickr.com/photos/ianloic/) is licensed [CC BY-SA](https://creativecommons.org/licenses/by-sa/2.0/)*
+
 The Creative Commons Government Certificate is designed to help government agencies and departments skill up internal leaders, policy makers, decision makers, and support staff on the value, use, and implementation of Creative Commons (CC) licenses for their programs.
 
 Certificates are targeted, pragmatic, and applied. The aim is to ensure all staff have the knowledge and skills they need to successfully perform Creative Commons related responsibilities.
