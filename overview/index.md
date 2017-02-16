@@ -23,22 +23,14 @@ The Creative Commons Government Certificate is designed to help government agenc
 
 On completion of the certificate government staff will be able to:
 
-* Validation hypotheses business-to-consumer buzz
-* Seed money ownership bootstrapping launch party
-* Channels paradigm shift
-* Plan user experience analytics twitter customer.
+* explain the benefits of Creative Commons licenses
+* understand the relationship of Creative Commons to copyright and the commons
+* demonstrate the ability to put a Creative Commons license on works
+* descibe how to find, reuse, revise and curate openly licensed works
+* recommend policies and grant procurement language associated with use of open licenses
+* provide Creative Commons related training and support services
+* help plan governmental systematic changes towards openness
 
 ## How does it work? What will I learn?
 
-
-Graphical user interface non-disclosure agreement deployment leverage vesting period venture assets rockstar business-to-consumer startup seed round network effects first mover advantage virality. Monetization validation metrics business-to-business conversion partner network non-disclosure agreement infographic business model canvas influencer handshake supply chain. Conversion iteration social media creative facebook. 
- 
- Burn rate stock launch party hackathon iPhone. Strategy market success product management business model canvas client. Strategy channels bootstrapping virality learning curve. Business plan iteration non-disclosure agreement startup network effects termsheet. Agile development handshake infrastructure channels seed round gamification iPad virality ownership MVP.
-
-
 Learn more [about the delivery format and process](../details/index.md) or [explore the modules and units](../contents/index.md)
-
-
-
-
-
