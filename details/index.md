@@ -1,4 +1,4 @@
-# Creative Commons Government Certificate Delivery Format
+# Government Certificate Delivery Format
 
 
 
