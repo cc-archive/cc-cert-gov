@@ -45,4 +45,11 @@ The Creative Commons government certificate is made up of a six modules broken d
    * Searching for CC Licensed Content
    * Legal vs Technical Openness
    
+7. Government Specialized Learning (Electives)
+   * Draft, Review & Approve Procurement Language
+   * Encourage, Motivate, Educate & Ensure Compliance With Grantees
+   * Help Desk: Support, Clarify, Explain, Solve Problems
+   * Standardize & Implement Procurement Policies & Procedures
+   * Evaluate Legal Vulnerabilities With New Initiatives
+   * Know About Open Licensing Policies in Other Agencies
    
