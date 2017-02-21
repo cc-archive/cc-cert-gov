@@ -1,6 +1,6 @@
 # Government Certificate Delivery Format
 
-![Government Path](https://github.com/creativecommons/cc-cert-gov/blob/master/images/GovPath.jpg)
+![Government Path](https://github.com/creativecommons/cc-cert-gov/blob/master/images/GovPath2.jpg)
 
 *[Photo](https://unsplash.com/?photo=tvPvROBv0F4) by [James Padolsey](https://unsplash.com/@padolsey) has been placed in the Public Domain using [CC0](https://creativecommons.org/publicdomain/zero/1.0/)*
 
