@@ -1,4 +1,4 @@
-# CC Government Certification Contents
+# Creative Commons Government Certificate Contents
 
 The Creative Commons government certificate is made up of a six modules broken down into learning units. These modules and learning units have been organized sequentially in a recommended learning path as follows:
 
