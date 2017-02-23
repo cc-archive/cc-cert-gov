@@ -29,6 +29,7 @@ The Creative Commons government certificate is made up of a six modules broken d
    * Shift to Openness
    * Promoting Openness
    * Community Development for Openness
+   * Building a Culture of Gratitude and Collaboration
    
 5. [Legal](legal/index.md)
    * Legal Aspects of Licensing and Attribution
@@ -40,10 +41,11 @@ The Creative Commons government certificate is made up of a six modules broken d
    * Responding to Creative Commons License Violations
    * Formulating Open Policies
 
-6. [Technical](technical/index.md)
-   * Using License Choosers
-   * Searching for CC Licensed Content
+6. [Using Creative Commons](using/index.md)
+   * Choosing a License
+   * Finding CC Licensed Content
    * Legal vs Technical Openness
+   * Giving Attribution
    
 7. Government Specialized Learning (Electives)
    * Draft, Review & Approve Procurement Language
