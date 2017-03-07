@@ -18,8 +18,8 @@ The Creative Commons government certificate is made up of a six modules broken d
  
 3. Using Creative Commons Licenses
   * How Licenses Work with Copyright
-  * Examples of Licenses in Action
-  * Overview of the Licenses
+  * [Examples of Licenses in Action](licenses/examples.md)
+  * [Remixing Differently Licensed Works](licenses/remixed.md)
   * Differences of CC0 and Public Domain Mark
   * Remixing Differently Licensed Works
   * Legal Precedence of Creative Commons licenses
