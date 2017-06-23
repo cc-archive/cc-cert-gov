@@ -1,4 +1,4 @@
-# Unit Title
+# Promoting Openness
 
 A 1-2 sentence catchy teaser, usually as opening to the big question that follows
 
@@ -80,10 +80,13 @@ Licensed under a [Creative Commons Attribution 4.0 International License (CC BY)
 
 Except where otherwise noted, this content is published under a [CC BY license](https://creativecommons.org/licenses/by/4.0/), which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit and provide a link to the license.
 
+
+
 Recommended attribution: 
 
-> "Title" by Creative Commons is licensed under CC BY 4.0. Available at    
-> https://github.com/creativecommons/cc-cert-lib/blob/master/...
+> "Promoting Openness" by Creative Commons is licensed under CC BY 4.0. Available at    
+> https://github.com/creativecommons/cc-cert-gov/blob/master/contents/sociocultural/promoting-open.md
+
 
 *Creative Commons Certificates have been created as a project of [Creative Commons](http://creativecommons.org/) with the kind support of the [Institute of Museum and Library Services](https://www.imls.gov/) and the [Bill &amp; Melinda Gates Foundation](http://www.gatesfoundation.org/).*
 

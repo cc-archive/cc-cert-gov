@@ -8,14 +8,14 @@ What if we combined that means with the power of the Internet and digital techno
 
 ![Creative Commons](https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/cc-logo.png "Creative Commons")
 
-*[Creative Commons Logo](https://creativecommons.org/about/downloads/) image by [Creative Commons](https://creativecommons.org)  is licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/)*
+*"[Creative Commons Logo](https://creativecommons.org/about/downloads/)" by [Creative Commons](https://creativecommons.org) is licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/)*
 
 
 [Creative Commons](https://creativecommons.org) does this very thing. Created as a US non-profit in 2002 and now with a global network, Creative Commons provides legal and technical infrastructure that helps creators legally share their knowledge and creativity to build a more equitable, accessible, and innovative world. Creative Commons licenses and digital tools, combined with the Internet, are driving new forms of development, growth and productivity.
 
 ![Creative Commons Staff Berlin 17-Nov-2016](https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/cc-staff.jpg "Creative Commons Staff Berlin 17-Nov-2016")
 
-*[Creative Commons Staff Berlin 17-Nov-2016](https://drive.google.com/file/d/0B8IKbRz-8utNR253c2syOUFEV0E/view?usp=sharing) photo is licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/)*
+*"[Creative Commons Staff Berlin 17-Nov-2016](https://drive.google.com/file/d/0B8IKbRz-8utNR253c2syOUFEV0E/view?usp=sharing)" photo is licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/)*
 
 ## Learning Outcomes
 * Explain why Creative Commons is necessary as an organization, mission & vision, goals
@@ -44,6 +44,10 @@ For a brief introduction to Creative Commons as an organization explore the [Abo
 
 https://vimeo.com/13590841
 
+ *"[Wanna Work Together?](https://vimeo.com/13590841)" 
+ by [Creative Commons](https://vimeo.com/creativecommonsvideos) 
+ is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0)*
+
 ### Vision, Mission, Goals, Program Areas
 To learn about Creative Commons vision, mission, goals, and program areas review the[Program Areas](https://creativecommons.org/about/program-areas/) section of the Creative Commons web site.
 
@@ -53,7 +57,7 @@ Browse through the [Creative Commons news blog](https://creativecommons.org/blog
 
 ![2015 State of the Commons screen shot from Creative Commons web site](https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/cc-state-commons.jpg "2015 State of the Commons screen shot")
 
-*[2015 State of the Commons screen shot](https://stateof.creativecommons.org/2015) screenshot is licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/)*
+*"[2015 State of the Commons screen shot](https://stateof.creativecommons.org/2015)" screenshot is licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/)*
 
 
 ### Creative Commons Tools and Resources
@@ -95,19 +99,21 @@ Complete the following activity in the Quest Bank.
 * [Explain What Creative Commons Is](https://quests.creativecommons.org/assignments/explain-what-creative-commons-is)  
 
 **Bonus applied practice:** Join Creative Commons global network. (note this activity will be relevant once the new global network strategy of CC is deployed.)
+
 ----
 
 ![Creative Commons Attribution 4.0 International License](https://github.com/creativecommons/cc-cert-core/blob/master/images/cc-by-88x31.png "CC BY")
 Licensed under a [Creative Commons Attribution 4.0 International License (CC BY)](https://creativecommons.org/licenses/by/4.0/).
 
-Except where otherwise noted, this content is published under a [CC BY license](https://creativecommons.org/licenses/by/4.0/), which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. License details: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+Except where otherwise noted, this content is published under a [CC BY license](https://creativecommons.org/licenses/by/4.0/), which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit and provide a link to the license.
 
-*Creative Commons Certificates have been created with the kind support of [Creative Commons](http://creativecommons.org/), the [Institute of Museum and Library Services](https://www.imls.gov/), and the [Bill ![Creative Commons Attribution-ShareAlike license](https://github.com/creativecommons/cc-cert-gov/blob/master/images/cc-by-sa-88x31.png "CC BY-SA")
-Licensed under a [Creative Commons Attribution-ShareAlike license (CC BY-SA) version 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Recommended attribution: 
 
-Except where otherwise noted, this content is published under a [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/), which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-License details: https://creativecommons.org/licenses/by-sa/4.0/
+> "Creative Commons as an Organization in the Commons" by Creative Commons is licensed under CC BY 4.0. Available at    
+> https://github.com/creativecommons/cc-cert-gov/blob/master/contents/commons/creative-commons.md
 
-*Creative Commons Certificates have been created with the kind support of [Creative Commons](http://creativecommons.org/), the [Institute of Museum and Library Services](https://www.imls.gov/), and the [Bill &amp; Melinda Gates Foundation](http://www.gatesfoundation.org/).*amp; Melinda Gates Foundation](http://www.gatesfoundation.org/).*
+
+*Creative Commons Certificates have been created as a project of [Creative Commons](http://creativecommons.org/) with the kind support of the [Institute of Museum and Library Services](https://www.imls.gov/) and the [Bill &amp; Melinda Gates Foundation](http://www.gatesfoundation.org/).*
 
 These certificates are part of the commons; if you find broken links or any other errors  [you can help by reporting them as an issue](https://github.com/creativecommons/cc-cert-gov/issues).
+

@@ -4,7 +4,7 @@ Is copyright a bit fuzzy to you? Get some clarity by understanding it's history 
 
 ![Fuzzy Copyright](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/copyright-fuzzy.jpg "Fuzzy Copyright")
 
-*[Fuzzy Copyright](https://www.flickr.com/photos/pugno_muliebriter/1384247192/) by [Nancy Sims](https://www.flickr.com/photos/pugno_muliebriter/) licensed under [CC BY-NC](https://creativecommons.org/licenses/by-nc/2.0/)*
+*"[Fuzzy Copyright](https://www.flickr.com/photos/pugno_muliebriter/1384247192/)" by [Nancy Sims](https://www.flickr.com/photos/pugno_muliebriter/) licensed under [CC BY-NC](https://creativecommons.org/licenses/by-nc/2.0/)*
 
 ## The Big Question
 
@@ -14,7 +14,7 @@ The law makes it a crime for someone to sneak into the garden overnight and stea
 
 ![herbs & spices that burn my tongue...](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/spices.jpg "herbs & spices that burn my tongue...")
 
-*[herbs & spices that burn my tongue...](https://www.flickr.com/photos/erikpoehler/5467004374/) by [Erik Pöhler](https://www.flickr.com/photos/erikpoehler/) licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/)*
+*"[herbs & spices that burn my tongue...](https://www.flickr.com/photos/erikpoehler/5467004374/)" by [Erik Pöhler](https://www.flickr.com/photos/erikpoehler/) licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/)*
 
 
 ## Learning Outcomes
@@ -27,37 +27,37 @@ The law makes it a crime for someone to sneak into the garden overnight and stea
 
 
 ## Personal Reflection / Why It Matters to You  
-  
+
 Think back to a time that you invested significant effort in a project outside of work. What was your motivation for doing so?
 
 
-## Acquiring Essential Knowledge 
+## Acquiring Essential Knowledge
 
 ### History of Copyright
 
-Copyright is so ubiquitous that it’s easy to believe that it’s a law of nature, like gravity. However, copyright is a relatively recent social invention, as you can learn by reading the introduction to this [History of Copyright](https://en.wikipedia.org/wiki/History_of_copyright_law0). 
+Copyright is so ubiquitous that it’s easy to believe that it’s a law of nature, like gravity. However, copyright is a relatively recent social invention, as you can learn by reading the introduction to this [History of Copyright](https://en.wikipedia.org/wiki/History_of_copyright_law).
 
 
 ### Purpose of Copyright
 
-The [purpose of copyright](https://www.lib.umn.edu/copyright/purpose) depends on who you ask - or, more specifically, the jurisdiction in which they live. In some jurisdictions the purpose of copyright is to provide financial incentives to would-be creators to create. In other jurisdictions, the purpose of copyright is to recognize and protect the natural connection between a creator and her works. 
+The [purpose of copyright](https://www.lib.umn.edu/copyright/purpose) depends on who you ask - or, more specifically, the jurisdiction in which they live. In some jurisdictions the purpose of copyright is to provide financial incentives to would-be creators to create. In other jurisdictions, the purpose of copyright is to recognize and protect the natural connection between a creator and her works.
 
 
 
 
-### The Types of Works Protected by Copyright 
+### The Types of Works Protected by Copyright
 
-Copyright protects a broad range of creative works. For a thorough listing of the kinds of things protected by copyright, see [What is Protected?](http://smartcopying.edu.au/copyright-guidelines/copyright---a-general-overview/1-3-what-is-protected-(types-of-works). In the over 160 nations that have adopted the [Berne Convention](https://en.wikipedia.org/wiki/Berne_Convention), all the works protectable by copyright are automatically copyrighted from the moment they are created, eliminating the need to register or place a notice on a work in order to receive copyright protection.
+Copyright protects a broad range of creative works. For a thorough listing of the kinds of things protected by copyright, see [What is Protected?](http://smartcopying.edu.au/copyright-guidelines/copyright). In the over 160 nations that have adopted the [Berne Convention](https://en.wikipedia.org/wiki/Berne_Convention), all the works protectable by copyright are automatically copyrighted from the moment they are created, eliminating the need to register or place a notice on a work in order to receive copyright protection.
 
 
 ### What Copyright Restricts
 
-Copyright reserves several exclusive rights to the copyright holder, including the rights to: 
+Copyright reserves several exclusive rights to the copyright holder, including the rights to:
 
 * make copies of the work
 * distribute copies of the work
 * create derivative works
-* publicly display or perform the work 
+* publicly display or perform the work
 
 The copyright holder can license or permanently assign these rights to others.
 
@@ -78,19 +78,21 @@ Share your feelings about the purpose of copyright in the CC Certificate social 
 Complete the following activity in the Quest Bank:
 
 * [How Does Copyright Encourage Creativity?](https://quests.creativecommons.org/assignments/how-does-copyright)
+
 ----
 
 ![Creative Commons Attribution 4.0 International License](https://github.com/creativecommons/cc-cert-core/blob/master/images/cc-by-88x31.png "CC BY")
 Licensed under a [Creative Commons Attribution 4.0 International License (CC BY)](https://creativecommons.org/licenses/by/4.0/).
 
-Except where otherwise noted, this content is published under a [CC BY license](https://creativecommons.org/licenses/by/4.0/), which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. License details: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+Except where otherwise noted, this content is published under a [CC BY license](https://creativecommons.org/licenses/by/4.0/), which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit and provide a link to the license.
 
-*Creative Commons Certificates have been created with the kind support of [Creative Commons](http://creativecommons.org/), the [Institute of Museum and Library Services](https://www.imls.gov/), and the [Bill ![Creative Commons Attribution-ShareAlike license](https://github.com/creativecommons/cc-cert-gov/blob/master/images/cc-by-sa-88x31.png "CC BY-SA")
-Licensed under a [Creative Commons Attribution-ShareAlike license (CC BY-SA) version 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Recommended attribution: 
 
-Except where otherwise noted, this content is published under a [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/), which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-License details: https://creativecommons.org/licenses/by-sa/4.0/
+> "Copyright Basics" by Creative Commons is licensed under CC BY 4.0. Available at    
+> https://github.com/creativecommons/cc-cert-gov/blob/master/contents/copyright/basics.md
 
-*Creative Commons Certificates have been created with the kind support of [Creative Commons](http://creativecommons.org/), the [Institute of Museum and Library Services](https://www.imls.gov/), and the [Bill &amp; Melinda Gates Foundation](http://www.gatesfoundation.org/).*amp; Melinda Gates Foundation](http://www.gatesfoundation.org/).*
+
+*Creative Commons Certificates have been created as a project of [Creative Commons](http://creativecommons.org/) with the kind support of the [Institute of Museum and Library Services](https://www.imls.gov/) and the [Bill &amp; Melinda Gates Foundation](http://www.gatesfoundation.org/).*
 
 These certificates are part of the commons; if you find broken links or any other errors  [you can help by reporting them as an issue](https://github.com/creativecommons/cc-cert-gov/issues).
+

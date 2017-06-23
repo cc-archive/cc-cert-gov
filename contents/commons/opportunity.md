@@ -1,4 +1,4 @@
-# The Commons Opportunity
+# The Opportunity of the Commons
 
 Imagine a world that anticipates the commercialization of all creative works - a world in which a three year old child’s wobbly crayon drawing would be protected to the same degree as Star Wars or Harry Potter.
 
@@ -8,7 +8,7 @@ After joining the [Berne Convention](https://en.wikipedia.org/wiki/Berne_Convent
 
 ![Copyright Iain](https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/copyright-iain.jpg "Copyright Iain")
 
-*[Copyright Iain](https://www.flickr.com/photos/iain/4804390638/) by [Iain Farrell](https://www.flickr.com/photos/iain/) licensed under [CC BY-ND](https://creativecommons.org/licenses/by-nd/2.0/)*
+*"[Copyright Iain](https://www.flickr.com/photos/iain/4804390638/)" by [Iain Farrell](https://www.flickr.com/photos/iain/) licensed under [CC BY-ND](https://creativecommons.org/licenses/by-nd/2.0/)*
 
 This situation is utterly preposterous for many reasons, but one important reason is that many people create things with the goal of sharing them with others. What if a creator doesn’t want their work “protected” from copying and distribution, but wants to see it copied and shared as far and wide as technologically possible?  For example, what if I’ve written a simple tutorial for purifying water after a natural disaster that I want everyone to have access to? When the law automatically copyrights my tutorial as if it were a major motion picture, how can I share it with others?
 
@@ -38,7 +38,7 @@ Creative Commons licenses exist along a continuum from the public domain (no rig
 
 ![Creative commons license spectrum](https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/cc-license-spectrum.png "Creative commons license spectrum")
 
-*[Creative commons license spectrum](https://commons.wikimedia.org/wiki/File:Creative_commons_license_spectrum.svg) by [Creative Commons](https://creativecommons.org/) licensed under [CC BY](https://creativecommons.org/licenses/by/4.0/deed.en)*
+*"[Creative commons license spectrum](https://commons.wikimedia.org/wiki/File:Creative_commons_license_spectrum.svg") by [Creative Commons](https://creativecommons.org/) licensed under [CC BY](https://creativecommons.org/licenses/by/4.0/deed.en)*
 
 
 ### The Benefits of Sharing 
@@ -48,7 +48,7 @@ Why would anyone want to share the creations in which they’ve invested so much
 
 https://vimeo.com/151666798
 
-*["Creative Commons: Remix"](https://vimeo.com/151666798) by [Creative Commons](https://vimeo.com/creativecommonsvideos) is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0)*
+*"[Creative Commons: Remix](https://vimeo.com/151666798)" by [Creative Commons](https://vimeo.com/creativecommonsvideos) is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0)*
 
 Also [Creative Commons Australia](http://creativecommons.org.au) provides a more comprehensive list of of the [Benefits of Sharing Using Creative Commons](http://creativecommons.org.au/content/Benefits_of_CC_08.pdf).
 
@@ -70,19 +70,23 @@ Post a story about how you benefited from someone who chose to share their creat
 Complete the following activity in the Quest Bank:
 
 * [How Do We Benefit? Let Me Count the Ways...](https://quests.creativecommons.org/assignments/how-do-we-benefit)
+
 ----
 
 ![Creative Commons Attribution 4.0 International License](https://github.com/creativecommons/cc-cert-core/blob/master/images/cc-by-88x31.png "CC BY")
 Licensed under a [Creative Commons Attribution 4.0 International License (CC BY)](https://creativecommons.org/licenses/by/4.0/).
 
-Except where otherwise noted, this content is published under a [CC BY license](https://creativecommons.org/licenses/by/4.0/), which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. License details: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+Except where otherwise noted, this content is published under a [CC BY license](https://creativecommons.org/licenses/by/4.0/), which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit and provide a link to the license.
 
-*Creative Commons Certificates have been created with the kind support of [Creative Commons](http://creativecommons.org/), the [Institute of Museum and Library Services](https://www.imls.gov/), and the [Bill ![Creative Commons Attribution-ShareAlike license](https://github.com/creativecommons/cc-cert-gov/blob/master/images/cc-by-sa-88x31.png "CC BY-SA")
-Licensed under a [Creative Commons Attribution-ShareAlike license (CC BY-SA) version 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Recommended attribution: 
 
-Except where otherwise noted, this content is published under a [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/), which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-License details: https://creativecommons.org/licenses/by-sa/4.0/
+> "The Commons Opportunity" by Creative Commons is licensed under CC BY 4.0. Available at    
+> https://github.com/creativecommons/cc-cert-gov/blob/master/contents/commons/opportunity.md
 
-*Creative Commons Certificates have been created with the kind support of [Creative Commons](http://creativecommons.org/), the [Institute of Museum and Library Services](https://www.imls.gov/), and the [Bill &amp; Melinda Gates Foundation](http://www.gatesfoundation.org/).*amp; Melinda Gates Foundation](http://www.gatesfoundation.org/).*
+
+*Creative Commons Certificates have been created as a project of [Creative Commons](http://creativecommons.org/) with the kind support of the [Institute of Museum and Library Services](https://www.imls.gov/) and the [Bill &amp; Melinda Gates Foundation](http://www.gatesfoundation.org/).*
 
 These certificates are part of the commons; if you find broken links or any other errors  [you can help by reporting them as an issue](https://github.com/creativecommons/cc-cert-gov/issues).
+
+
+
